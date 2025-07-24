@@ -23,7 +23,7 @@ This project aims to build a machine learning regression model that accurately p
 
 ### 🧠 Final Model & Performance
 - **Chosen Model:** Random Forest Regressor (after hyperparameter tuning)
-- **Best R² Score:** ~0.59
+- **Best R² Score:** ~0.596
 - **RMSE:** ~394
 - **MAE:** ~263
 - **Key Features:** Temperature, Solar Radiation, Humidity
